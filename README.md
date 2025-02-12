@@ -1,1 +1,2 @@
 # Employee-Attrition-Prediction
+Developed a machine learning-based system to predict employee attrition by analyzing organizational data, including demographics, performance metrics, and historical turnover trends. Conducted data preprocessing, feature engineering, and exploratory analysis to identify key drivers of attrition. Built and deployed predictive models with specific metrics and accuracy of 96%, providing actionable insights to HR teams for proactive retention strategies. 
